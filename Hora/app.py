@@ -18,4 +18,4 @@ horaAtual = horarioAtual.getHora().split(":")
 if((int(horaEvento[0]) <= int(horaAtual[0])) & (int(horaEvento[1]) <= int(horaAtual[1]))):
     print("Estou atrasado")
 elif():
-    print("Não estou atrasado") 
+    print("Não estou atrasada") 
